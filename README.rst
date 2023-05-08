@@ -38,7 +38,7 @@ Download and install the library
 ::
 
     git clone https://github.com/Konfersi-Indonesia/Altimpy-Dev.git 
-    cd altimpy 
+    cd Altimpy-Dev 
     python setup.py install --user 
 
 Some day I will organize and document this library... ;)
