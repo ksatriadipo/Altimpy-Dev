@@ -3,6 +3,8 @@ AltimPy-Dev
 =======
 **Customized library from https://github.com/fspaolo/altimpy, To cite this library, please cite only the original source from https://github.com/fspaolo/altimpy**
 
+Update in util.py
+
 **Set of tools for processing satellite altimetry data**
 
 A Python package with high-level functions for constructing time 
