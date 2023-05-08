@@ -14,7 +14,7 @@ setup(
     #scripts=['bin/stowe-towels.py','bin/wash-towels.py'],
     #url='https://pypi.python.org/pypi/altimpy',
     url='https://github.com/Konfersi-Indonesia/Altimpy-Dev.git',
-    download_url='https://github.com/Konfersi-Indonesia/Altimpy-Dev.gitr',
+    download_url='https://github.com/Konfersi-Indonesia/Altimpy-Dev.git',
     license='LICENSE.txt',
     description='Set of tools for processing satellite altimetry data',
     long_description=open('README.rst').read(),
