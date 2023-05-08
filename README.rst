@@ -1,7 +1,7 @@
 
-AltimPy 
+AltimPy-Dev
 =======
-
+**Customized library from https://github.com/fspaolo/altimpy, To cite this library, please cite only the original source from https://github.com/fspaolo/altimpy**
 **Set of tools for processing satellite altimetry data**
 
 A Python package with high-level functions for constructing time 
@@ -34,7 +34,7 @@ Download and install the library
 ---------------------------------
 ::
 
-    git clone https://github.com/fspaolo/altimpy 
+    git clone https://github.com/Konfersi-Indonesia/Altimpy-Dev.git 
     cd altimpy 
     python setup.py install --user 
 
